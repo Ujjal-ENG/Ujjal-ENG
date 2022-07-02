@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="1200" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 
-<h1 align="center">Hi 👋, I'm Ujjal Roy</h1>
+<h1 align="center">Hi 👋, I'm Ujjal Kumar Roy</h1>
 <h3 align="center">Software Engineer with experience in managing a team and making critical decisions. Passionate about Data Science and algorithms and interested in a full-time position in Software Development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
