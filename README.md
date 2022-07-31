@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1100" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="right" alt="Coding" width="1050" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 
 <h1 align="center">Hi 👋, I'm Ujjal Kumar Roy</h1>
