@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ujjalroy7862@gmail.com**
 
-- 📄 My Resume here [https://drive.google.com/file/d/1zOZZPNO78pCCQriRzQfxtX6kckak3Tq7/view?usp=sharing](https://drive.google.com/file/d/1zOZZPNO78pCCQriRzQfxtX6kckak3Tq7/view?usp=sharing)
+- 📄 My Resume here [https://drive.google.com/file/d/1UAqCt2hnV_Boy4iS4NCdlZazEyeGazQA/view?usp=sharing](https://drive.google.com/file/d/1UAqCt2hnV_Boy4iS4NCdlZazEyeGazQA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
