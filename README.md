@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Self study**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack Devlopment**
 
 - 💬 Ask me about **Java, Python,JavaScript, Android development, Software Development**
 
