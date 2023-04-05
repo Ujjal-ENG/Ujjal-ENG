@@ -2,7 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Ujjal Kumar Roy</h1>
-<h3 align="center">Software Engineer with experience in managing a team and making critical decisions. Passionate about Data Science and algorithms and interested in a full-time position in Software Development.</h3>
+<h3 align="center">As a software engineer, I am driven by my passion for creating efficient and effective software solutions. With a solid understanding of algorithms and a keen eye for detail, I am confident in my ability to produce high-quality code that meets the needs of clients and users alike.
+
+I have experience working on a variety of software development projects, from small-scale applications to large enterprise systems. My ability to learn quickly and adapt to new technologies and programming languages allows me to tackle any challenge that comes my way.
+
+As a recent graduate, I am eager to start my career in software development and make a positive impact in the industry. I am excited to work with a team of talented professionals who share my passion for innovation and creating cutting-edge software solutions.
+
+I am confident that my skills, dedication, and enthusiasm make me an excellent candidate for any software development position. I look forward to the opportunity to contribute my expertise to a dynamic and forward-thinking organization.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
