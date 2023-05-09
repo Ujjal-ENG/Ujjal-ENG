@@ -22,7 +22,7 @@ I am confident that my skills, dedication, and enthusiasm make me an excellent c
 
 - 📫 How to reach me **ujjalroy7862@gmail.com**
 
-- 📄 My Resume here [[https://drive.google.com/file/d/12IcbFzp6NM2u1AAPJ53QqrDqSHqBXGg2/view?usp=share_link]](https://drive.google.com/file/d/12IcbFzp6NM2u1AAPJ53QqrDqSHqBXGg2/view?usp=share_link)
+- 📄 My Resume here [https://drive.google.com/file/d/1clX2CEZ2Lr13DTOWmIqOVSLNLw9AflHl/view?usp=share_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
