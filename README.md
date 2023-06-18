@@ -16,13 +16,13 @@ I am confident that my skills, dedication, and enthusiasm make me an excellent c
 
 - 🔭 I’m currently working on **Self study**
 
-- 🌱 I’m currently learning **MERN Stack Devlopment**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Java, Python,JavaScript, Android development, Software Development**
+- 💬 Ask me about **JavaScript, React JS, Express JS, MongoDB and Software Development**
 
 - 📫 How to reach me **ujjalroy7862@gmail.com**
 
-- 📄 My Resume here [https://drive.google.com/file/d/1clX2CEZ2Lr13DTOWmIqOVSLNLw9AflHl/view?usp=sharing]
+- 📄 My Resume here [https://drive.google.com/file/d/1sdPY5IvLERjrdz9UDPkQwWJ2TIwTzb5Z/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
