@@ -14,11 +14,11 @@ I am confident that my skills, dedication, and enthusiasm make me an excellent c
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjal-eng&label=Profile%20views&color=0e75b6&style=flat" alt="ujjal-eng" /> </p>
 
-- 🔭 I’m currently working on **Self study**
+- 🔭 I’m currently working as a **Software Engineer at Soft BD Limited**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **PHP & Laravel Development**
 
-- 💬 Ask me about **JavaScript, React JS, Express JS, MongoDB and Software Development**
+- 💬 Ask me about **JavaScript, React JS, Express JS, MongoDB, PHP, Laravel, MySql, and Software Development**
 
 - 📫 How to reach me **ujjalroy7862@gmail.com**
 
