@@ -8,7 +8,7 @@ I have experience working on a variety of software development projects, from sm
 
 As a recent graduate, I am eager to start my career in software development and make a positive impact in the industry. I am excited to work with a team of talented professionals who share my passion for innovation and creating cutting-edge software solutions.
 
-I am confident that my skills, dedication, and enthusiasm make me an excellent candidate for any software development position. I look forward to the opportunity to contribute my expertise to a dynamic and forward-thinking organization.</h3>
+My skills, dedication, and enthusiasm make me an excellent candidate for any software development position. I look forward to the opportunity to contribute my expertise to a dynamic and forward-thinking organization.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -22,7 +22,7 @@ I am confident that my skills, dedication, and enthusiasm make me an excellent c
 
 - 📫 How to reach me **ujjalroy7862@gmail.com**
 
-- 📄 My Resume here [https://drive.google.com/file/d/1kKUB375F9EdK-j6bccgGHJ5Q7Yl35vwa/view?usp=sharing]
+- 📄 My Resume here [[https://drive.google.com/file/d/1kKUB375F9EdK-j6bccgGHJ5Q7Yl35vwa/view?usp=sharing](https://drive.google.com/file/d/1JKjZy3x57mEzA-hS1inFGJ8Cg-X3misu/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
