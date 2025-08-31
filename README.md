@@ -16,7 +16,7 @@ My skills, dedication, and enthusiasm make me an excellent candidate for any sof
 
 - 🔭 I’m currently working as a **Software Engineer** at **Frontier Semiconductor Ltd.**
 
-- 🌱 I’m currently learning **PHP & Laravel Development**
+- 🌱 I’m currently learning **Advanced Next Js Rendering**
 
 - 💬 Ask me about **JavaScript, React JS, Next JS, TypeScript, Asp.Net Core, C#, Software Infrastructure, Server Management, Requirement Analysis, MongoDB, PHP, Laravel, MySQL, and Software Development**
 
