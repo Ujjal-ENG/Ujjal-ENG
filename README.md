@@ -16,7 +16,7 @@ My skills, dedication, and enthusiasm make me an excellent candidate for any sof
 
 - 🔭 I’m currently working as a **Software Engineer** at **Frontier Semiconductor Ltd.**
 
-- 🌱 I’m currently learning **Advanced Next Js Rendering**
+- 🌱 I’m currently learning **ASP Dot NET core Backend Framework**
 
 - 💬 Ask me about **JavaScript, React JS, Next JS, TypeScript, Asp.Net Core, C#, Software Infrastructure, Server Management, Requirement Analysis, MongoDB, PHP, Laravel, MySQL, and Software Development**
 
