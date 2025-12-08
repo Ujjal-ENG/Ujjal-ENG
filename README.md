@@ -1,45 +1,107 @@
+<!-- Banner -->
 <img align="right" alt="Coding" width="870" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
-
 <h1 align="center">Hi 👋, I'm Ujjal Kumar Roy</h1>
-<h3 align="center">As a software engineer, I am driven by my passion for creating efficient and effective software solutions. With a solid understanding of algorithms and a keen eye for detail, I am confident in my ability to produce high-quality code that meets the needs of clients and users alike.
+<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
-I have experience working on a variety of software development projects, from small-scale applications to large enterprise systems. My ability to learn quickly and adapt to new technologies and programming languages allows me to tackle any challenge that comes my way.
-
-As a recent graduate, I am eager to start my career in software development and make a positive impact in the industry. I am excited to work with a team of talented professionals who share my passion for innovation and creating cutting-edge software solutions.
-
-My skills, dedication, and enthusiasm make me an excellent candidate for any software development position. I look forward to the opportunity to contribute my expertise to a dynamic and forward-thinking organization.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjal-eng&label=Profile%20views&color=0e75b6&style=flat" alt="ujjal-eng" /> </p>
-
-- 🔭 I’m currently working as a **Software Engineer** at **Frontier Semiconductor Ltd.**
-
-- 🌱 I’m currently learning **ASP Dot NET core Backend Framework**
-
-- 💬 Ask me about **JavaScript, React JS, Next JS, TypeScript, Asp.Net Core, C#, Software Infrastructure, Server Management, Requirement Analysis, MongoDB, PHP, Laravel, MySQL, and Software Development**
-
-- 📫 How to reach me **ujjalroy7862@gmail.com**
-
-- 📄 My Resume here [[https://drive.google.com/file/d/1kKUB375F9EdK-j6bccgGHJ5Q7Yl35vwa/view?usp=sharing](https://drive.google.com/file/d/1JKjZy3x57mEzA-hS1inFGJ8Cg-X3misu/view?usp=drive_link)]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ujjal-kumar-roy-9385a71a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ujjal-kumar-roy-9385a71a7/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13442641/ujjal-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13442641/ujjal-roy" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ujjalkumarroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ujjalkumarroy" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/ujjal.roy.7862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/ujjal.roy.7862" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
 </p>
- 
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+## 🧑‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjal-eng&show_icons=true&locale=en&layout=compact" alt="ujjal-eng" /></p>
+🎓 I’m a passionate software engineer specializing in full-stack web development. With a B.Sc. in CSE (CGPA 3.85) from Green University of Bangladesh, I've built solutions for real-world use cases, from national payment portals to international fintech dashboards.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjal-eng&show_icons=true&locale=en" alt="ujjal-eng" /></p>
+🚀 My stack spans **Laravel, React, Next.js, Vue.js**, and **Node.js**, with solid experience in **API integration, cloud deployment, and scalable backend design**. I'm currently working at **Frontier Semiconductor Ltd.** where I develop and maintain advanced software systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal-eng&" alt="ujjal-eng" /></p>
+🏆 I'm a multi-award-winning student, securing 5× Vice Chancellor Awards, 4× Dean’s Awards, and 2× runner-up titles in university programming contests.
 
+---
+
+## 🔧 Tech Stack
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+**Databases & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/google%20cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Tools & Styling**
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 [Polytechnic Payment Portal](https://polytechnic.aalo.xyz)
+> Laravel-based platform for 26 Bangladeshi polytechnics. Integrated Teletalk SMS & Ekpay Payment Gateways.
+- **Login:** admin@gmail.com / password
+
+### ⚖️ [Judipay - Bangladesh Judiciary](https://judipay.gov.bd)
+> A Vue.js & Laravel system for secure government payments. Fixed 250+ bugs & integrated advanced CDAP/SSO features.
+
+### 💼 [Elite Stacks Capital](https://www.elitestakescap.com)
+> US fintech dashboard with plan purchasing, user management, API integration.
+- **Admin Login:** admin@gmail.com / 123456  
+- **User:** test@gmail.com / 123456  
+- **Superadmin:** super@admin.com / 123456
+
+### 🧾 [Payroll CRM System](https://dev-hrpay.softbd.xyz)
+> Custom payroll reporting and query optimization for enterprise HR tasks.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 2× First Runner-up – University Programming Contests  
+- 🏅 5× Vice Chancellor Award  
+- 🏅 4× Dean's Award  
+- 💯 100+ problems solved on LeetCode, URI, HackerRank  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjal-ENG&show_icons=true&locale=en" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjal-ENG" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjal-ENG&layout=compact&hide_border=true&locale=en" alt="Top Languages"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ujjal-kumar-roy-9385a71a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjalroy7862@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13442641/ujjal-roy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ujjalkumarroy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/ujjalroy7862)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://my-portfolio-c465b.web.app/)
+
+---
+
+<p align="center">✨ Let's build the future together. Thanks for visiting my profile! ✨</p>
