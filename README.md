@@ -30,12 +30,13 @@ const ujjal = {
     },
     expertise: {
         frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-        backend: ["Laravel", "Node.js", "Nest.js", "Express.js"],
+        backend: ["Laravel", "Node.js", "Nest.js", "Express.js", "Python", "Django"],
         databases: ["MongoDB", "MySQL"],
         devops: ["Docker", "GCP", "Linux"],
         specialties: ["API Integration", "Payment Gateways", "Cloud Deployment"]
     },
-    currentFocus: "Building scalable enterprise solutions",
+    currentFocus: "Building scalable enterprise solutions & exploring AI integration",
+    learning: ["Agentic Development", "AI Integration with Python", "Django Framework"]
     funFact: "2× Programming Contest Runner-Up 🏆"
 };
 ```
@@ -86,10 +87,13 @@ const ujjal = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -266,35 +270,126 @@ Advanced payroll and HR management system with dynamic reporting and complex que
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Ujjal Kumar Roy))
-    Full Stack Development
-      Frontend
-        React.js
-        Next.js
-        Vue.js
-        TypeScript
-      Backend
-        Laravel
-        Node.js
-        NestJS
-    System Integration
-      Payment Gateways
-      SMS Gateways
-      SSO & CDAP
-      API Development
-    DevOps & Cloud
-      Docker
-      GCP
-      Linux VMs
-      CI/CD
-    Problem Solving
-      Algorithm Design
-      Query Optimization
-      Debugging
-      Code Review
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨 Frontend Development
+**React.js** • **Next.js** • **Vue.js**  
+**TypeScript** • **JavaScript**  
+**TailwindCSS** • **Responsive Design**
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️ Backend Development
+**Laravel** • **Django** • **Python**  
+**Node.js** • **NestJS** • **Express.js**  
+**RESTful APIs** • **Microservices**
+
+</td>
+<td align="center" width="25%">
+
+### 🔌 System Integration
+**Payment Gateways** (Ekpay, Teletalk)  
+**SMS Gateways** • **SSO & CDAP**  
+**API Development** • **Third-party APIs**
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ DevOps & Cloud
+**Docker** • **Google Cloud Platform**  
+**Linux VMs** • **CI/CD**  
+**Server Management** • **Deployment**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### 💾 Databases
+**MySQL** • **MongoDB**  
+**Query Optimization**  
+**Database Design**
+
+</td>
+<td align="center" width="25%">
+
+### 🤖 AI & Learning
+**Agentic Development**  
+**AI Integration** • **Python**  
+**Machine Learning Basics**
+
+</td>
+<td align="center" width="25%">
+
+### 🐛 Problem Solving
+**Algorithm Design**  
+**Debugging** • **Code Review**  
+**Performance Optimization**
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 Soft Skills
+**Team Leadership**  
+**Project Management**  
+**Client Communication**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+<div align="center">
+
+### 🚀 Expanding My Horizons
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 Agentic Development
+Exploring autonomous AI agents that can make decisions and execute tasks independently using modern frameworks and patterns.
+
+**Focus Areas:**
+- Agent architectures
+- Decision-making systems
+- Task automation
+
+</td>
+<td align="center" width="33%">
+
+### 🐍 Python & Django
+Mastering Python ecosystem for backend development and expanding into Django framework for rapid application development.
+
+**Learning:**
+- Django REST Framework
+- ORM optimization
+- Python best practices
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 AI Integration
+Integrating artificial intelligence capabilities into applications using Python and modern ML libraries.
+
+**Exploring:**
+- AI-powered features
+- API integrations (OpenAI, etc.)
+- Intelligent automation
+
+</td>
+</tr>
+</table>
+
+> 💡 **Why?** Staying ahead in tech means continuously learning. I'm expanding into AI and Python to build more intelligent, autonomous solutions.
 
 </div>
 
@@ -332,6 +427,7 @@ I'm always interested in hearing about new opportunities, especially challenging
 - 🏗️ System Architecture
 - 💼 Enterprise Solutions
 - 🌐 Cloud-Native Applications
+- 🤖 AI Integration & Agentic Systems
 
 📧 **Email:** ujjalroy7862@gmail.com  
 📱 **Phone:** +880 1798421460  
@@ -348,8 +444,9 @@ I'm always interested in hearing about new opportunities, especially challenging
 - 🏆 Twice programming contest runner-up
 - 💻 Solved 314+ algorithmic problems
 - 🎯 Passionate about clean code and best practices
-- 🌱 Always learning new technologies
+- 🌱 Currently learning Agentic Development & AI Integration with Python/Django
 - 🤝 Love collaborating on innovative projects
+- 🚀 Always exploring cutting-edge technologies
 
 ---
 
