@@ -460,12 +460,6 @@ I'm always interested in hearing about new opportunities, especially challenging
 
 If you like what you see, don't forget to give a ⭐ to my repositories!
 
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 </div>
