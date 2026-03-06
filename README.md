@@ -1,14 +1,19 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ujjal%20Kumar%20Roy&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=JavaScript%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Enterprise%20Solutions&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e2e,75:1c2d4f,100:1f6feb&height=280&section=header&text=Ujjal%20Kumar%20Roy&fontSize=50&fontColor=e6edf3&fontAlignY=30&desc=JavaScript%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Enterprise%20Solutions&descSize=18&descColor=8b949e&descAlignY=52&animation=scaleIn"/>
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+production+systems+serving+thousands+daily;Specializing+in+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS" alt="Typing SVG" />
+<!-- Animated Wave Gif Divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Animated Typing - Line 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%9A%80+3%2B+Years+Building+at+Scale;%F0%9F%92%BB+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;%F0%9F%8F%97%EF%B8%8F+Enterprise+Payment+Systems;%E2%9A%A1+26%2B+Institutions+%7C+500%2B+Users;%F0%9F%94%A5+250%2B+Production+Bugs+Squashed" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Animated Social Badges -->
 <a href="https://www.linkedin.com/in/ujjal-kumar-roy/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
@@ -20,20 +25,26 @@
 </a>&nbsp;
 <a href="https://leetcode.com/ujjalroy7862">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/13442641/ujjal-roy">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
 </a>
 
 <br/><br/>
 
-<!-- Animated Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjal-ENG/Ujjal-ENG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjal-ENG/Ujjal-ENG/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ujjal-ENG/Ujjal-ENG/output/github-snake-dark.svg" width="100%" />
-</picture>
+<!-- Animated Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Ujjal-ENG&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+<br/>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -61,7 +72,9 @@ const ujjal = {
 
 I build **production-grade JavaScript systems at scale** — from government payment platforms processing thousands of daily transactions to fintech dashboards serving 500+ active users. Currently at **Frontier Semiconductor Ltd.**, previously led development of national-scale payment infrastructure at **Soft BD Ltd.**
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;JavaScript Ecosystem — Where I Go Deep
 
@@ -204,7 +217,9 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </div>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Raz/giphy.gif" width="25"> &nbsp;Professional Journey
 
@@ -224,7 +239,9 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 <br clear="right"/>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Featured Projects
 
@@ -276,7 +293,9 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </details>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
@@ -289,9 +308,15 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjal-ENG&bg_color=0d1117&color=8b949e&line=58a6ff&point=f78166&area=true&area_color=161b22&hide_border=true" />
 
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ujjal-ENG&theme=github_dark)
+
 </div>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="25"> &nbsp;Achievements
 
@@ -307,19 +332,31 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </div>
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Agentic+Development+%26+Autonomous+Systems;AI+Integration+with+Python+%2F+Django" alt="Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%F0%9F%A4%96+Agentic+Development+%26+Autonomous+Systems;%F0%9F%90%8D+Python+%2F+Django+Backend+Mastery;%F0%9F%A7%A0+AI+Integration+%26+Intelligent+Automation" alt="Learning" />
+
+<br/><br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,django,tensorflow&theme=dark" alt="Learning Stack" />
+</a>
 
 </div>
 
+<br/>
+
 Building toward intelligent, autonomous systems that combine JavaScript expertise with emerging AI capabilities.
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 ## 📬 Let's Connect
 
@@ -348,4 +385,12 @@ Building toward intelligent, autonomous systems that combine JavaScript expertis
 </div>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%E2%9C%A8+Thanks+for+visiting+my+profile!;%F0%9F%A4%9D+Let's+build+something+great+together!" alt="Footer Typing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e2e,75:1c2d4f,100:1f6feb&height=150&section=footer&animation=fadeIn"/>
+
+</div>
