@@ -1,109 +1,351 @@
 <div align="center">
 
-# Ujjal Kumar Roy
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ujjal%20Kumar%20Roy&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=JavaScript%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20Enterprise%20Solutions&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
-**JavaScript Engineer · Full-Stack Architect · Enterprise Solutions**
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+production+systems+serving+thousands+daily;Specializing+in+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+NestJS" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjal-kumar-roy/)
-[![Email](https://img.shields.io/badge/ujjalroy7862@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujjalroy7862@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-c465b.web.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ujjalroy7862)
+<br/>
+
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/ujjal-kumar-roy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:ujjalroy7862@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;
+<a href="https://my-portfolio-c465b.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://leetcode.com/ujjalroy7862">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjal-ENG/Ujjal-ENG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjal-ENG/Ujjal-ENG/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ujjal-ENG/Ujjal-ENG/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-I'm a JavaScript-focused Software Engineer with 3+ years of experience designing and delivering production systems at scale. I specialize in the modern JavaScript ecosystem — from React and Next.js on the frontend to Node.js and NestJS on the backend — with a strong track record of building enterprise-grade applications that serve thousands of users daily.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-Currently at **Frontier Semiconductor Ltd.**, previously led development of national-scale payment platforms at **Soft BD Ltd.**, including government-grade systems for the Bangladesh Judiciary.
+```javascript
+const ujjal = {
+  role: "Software Engineer",
+  location: "Dhaka, Bangladesh",
+  focus: "JavaScript Ecosystem & Enterprise Architecture",
 
----
+  stack: {
+    frontend:  ["React", "Next.js", "Vue.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "NestJS", "Express.js", "Laravel", "Django"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    devops:    ["Docker", "GCP", "Linux", "CI/CD"]
+  },
 
-## Technical Expertise
-
-### JavaScript & TypeScript — Core Stack
-
+  impact: {
+    institutionsServed: "26+ polytechnic institutions nationwide",
+    productionBugsFixed: "250+",
+    efficiencyGain: "60% faster transaction processing",
+    problemsSolved: "314+ across LeetCode, URI, HackerRank"
+  }
+};
 ```
-Frontend        React · Next.js · Vue.js · TypeScript · TailwindCSS · Shadcn UI
-Backend         Node.js · NestJS · Express.js · Laravel · Django
-Databases       MySQL · MongoDB · PostgreSQL
-Infrastructure  Docker · GCP · Linux · CI/CD · Git
-Integration     Payment Gateways (Ekpay) · SMS Gateways (Teletalk) · SSO · CDAP · REST APIs
-```
 
-### Where I Go Deep
-
-- **React & Next.js** — SPAs, SSR/SSG, dynamic dashboards, complex state management
-- **Node.js & NestJS** — Scalable API architectures, microservice patterns, real-time systems
-- **TypeScript** — End-to-end type safety across full-stack applications
-- **System Integration** — Payment gateways, government authentication (SSO/CDAP), third-party APIs
-- **Performance** — Complex SQL optimization, production debugging (250+ bugs resolved), caching strategies
+I build **production-grade JavaScript systems at scale** — from government payment platforms processing thousands of daily transactions to fintech dashboards serving 500+ active users. Currently at **Frontier Semiconductor Ltd.**, previously led development of national-scale payment infrastructure at **Soft BD Ltd.**
 
 ---
 
-## Professional Experience
-
-**Software Engineer** · Frontier Semiconductor Ltd. · *Jun 2025 – Present*
-Building and maintaining software systems for semiconductor operations using modern full-stack technologies.
-
-**Software Engineer** · Soft BD Ltd. · *Aug 2023 – May 2025*
-Led development of payment platforms serving 26+ polytechnic institutions nationwide. Architected government-grade security for Judipay (Bangladesh Judiciary). Integrated Ekpay, Teletalk, SSO, and CDAP systems. Resolved 250+ critical production bugs. Built enterprise payroll and CRM systems with complex reporting.
-
-**Software Engineer Intern** · Fliqaindia · *Apr 2023 – Aug 2023*
-Converted Figma designs to production React apps. Managed GCP deployments. Implemented SEO and scalable frontend architecture.
-
----
-
-## Selected Projects
-
-### [Polytechnic Payment Portal](https://polytechnic.aalo.xyz) — National-Scale Education Payments
-Payment platform serving **26 polytechnic institutions** across Bangladesh with multi-role auth, Ekpay payment integration, Teletalk SMS gateway, and real-time transaction monitoring. Reduced transaction processing time by 60%.
-`Laravel 10` `MySQL` `Ekpay` `Teletalk SMS`
-
-### [Judipay](https://judipay.gov.bd) — Bangladesh Judiciary Payment System
-Government-grade payment system with SSO & CDAP authentication, multi-gateway support, and compliance with national security standards. Resolved 250+ production bugs across the platform.
-`Vue.js` `Laravel 10` `Element UI` `SSO` `CDAP`
-
-### [Elite Stacks Capital](https://www.elitestakescap.com) — US Fintech Dashboard
-Investment management platform with plan purchasing, multi-tier user roles, external API integration, and real-time data sync. Serves 500+ active users.
-`Next.js 15` `Laravel 11` `TypeScript` `Shadcn UI` `MySQL`
-
-### [Payroll CRM System](https://dev-hrpay.softbd.xyz) — Enterprise HR Management
-Automated payroll processing with dynamic report generation, leave management, attendance tracking, and KPI dashboards. Reduced HR processing time by 40%.
-`Laravel 9` `Voyager` `MySQL` `Complex SQL`
-
----
-
-## Education & Recognition
-
-**B.Sc. in Computer Science & Engineering** — Green University of Bangladesh · *2019–2023*
-CGPA: 3.85 / 4.00 · 5× Vice Chancellor Award · 4× Dean's Award · 2× Programming Contest Runner-Up
-
-**Problem Solving:** 314+ problems solved across LeetCode (102+), URI Online Judge (112+), and HackerRank (100+)
-
----
-
-## Currently Exploring
-
-Expanding into **Agentic Development**, **AI Integration with Python**, and **Django** — building toward intelligent, autonomous systems that combine my JavaScript expertise with emerging AI capabilities.
-
----
-
-## GitHub Analytics
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;JavaScript Ecosystem — Where I Go Deep
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ujjal-ENG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjal-ENG&theme=github-dark-blue&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  </a>
+  <br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  </a>
+  <br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <br><strong>React</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  </a>
+  <br><strong>Next.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+  </a>
+  <br><strong>Vue.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a>
+  <br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+  </a>
+  <br><strong>NestJS</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+  </a>
+  <br><strong>Express</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+  </a>
+  <br><strong>Laravel</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  </a>
+  <br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+  </a>
+  <br><strong>Django</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  </a>
+  <br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  </a>
+  <br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  </a>
+  <br><strong>Docker</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  </a>
+  <br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+  </a>
+  <br><strong>GCP</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+  </a>
+  <br><strong>Tailwind</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </a>
+  <br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  </a>
+  <br><strong>Linux</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+  </a>
+  <br><strong>PHP</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  </a>
+  <br><strong>VS Code</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Raz/giphy.gif" width="25"> &nbsp;Professional Journey
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjal-ENG&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="320"/>
+
+### 🏢 Frontier Semiconductor Ltd.
+**Software Engineer** · *Jun 2025 – Present*
+> Building advanced software systems for semiconductor operations with modern full-stack technologies.
+
+### 🏢 Soft BD Ltd.
+**Software Engineer** · *Aug 2023 – May 2025*
+> Led development of payment platforms serving 26+ institutions. Architected government security systems. Resolved 250+ production bugs. Built enterprise payroll and CRM systems.
+
+### 🏢 Fliqaindia
+**Software Engineer (Intern)** · *Apr 2023 – Aug 2023*
+> Converted Figma designs to production React apps. Managed GCP deployments with SEO optimization.
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Featured Projects
+
+<details>
+<summary><b>🎓 Polytechnic Payment Portal</b> — National-Scale Education Payments &nbsp; <code>Laravel 10</code> <code>MySQL</code> <code>Ekpay</code></summary>
+<br/>
+
+> Payment platform serving **26 polytechnic institutions** across Bangladesh with multi-role auth, Ekpay payment integration, Teletalk SMS gateway, and real-time transaction monitoring.
+>
+> **Impact:** Reduced transaction processing time by **60%**
+>
+> 🔗 [Live → polytechnic.aalo.xyz](https://polytechnic.aalo.xyz)
+
+</details>
+
+<details>
+<summary><b>⚖️ Judipay</b> — Bangladesh Judiciary Payment System &nbsp; <code>Vue.js</code> <code>Laravel 10</code> <code>SSO</code></summary>
+<br/>
+
+> Government-grade payment system with SSO & CDAP authentication, multi-gateway support, and compliance with national security standards.
+>
+> **Impact:** Resolved **250+ production bugs**, enhanced security for the national judiciary
+>
+> 🔗 [Live → judipay.gov.bd](https://judipay.gov.bd)
+
+</details>
+
+<details>
+<summary><b>💰 Elite Stacks Capital</b> — US Fintech Dashboard &nbsp; <code>Next.js 15</code> <code>TypeScript</code> <code>Shadcn UI</code></summary>
+<br/>
+
+> Investment management platform with plan purchasing, multi-tier user roles, external API integration, and real-time data sync.
+>
+> **Impact:** Streamlined plan management for **500+ active users**
+>
+> 🔗 [Live → elitestakescap.com](https://www.elitestakescap.com)
+
+</details>
+
+<details>
+<summary><b>📊 Payroll CRM System</b> — Enterprise HR Management &nbsp; <code>Laravel 9</code> <code>MySQL</code> <code>Voyager</code></summary>
+<br/>
+
+> Automated payroll processing with dynamic reports, leave management, attendance tracking, and KPI dashboards.
+>
+> **Impact:** Reduced HR processing time by **40%** through automation
+>
+> 🔗 [Live → dev-hrpay.softbd.xyz](https://dev-hrpay.softbd.xyz)
+
+</details>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
 <div align="center">
 
-**Open to opportunities in Full-Stack Development · System Architecture · Enterprise Solutions · AI Integration**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjal-ENG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjal-ENG&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
 
-📧 ujjalroy7862@gmail.com · 📍 Dhaka, Bangladesh
+<br/>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjal-ENG&bg_color=0d1117&color=8b949e&line=58a6ff&point=f78166&area=true&area_color=161b22&hide_border=true" />
 
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="25"> &nbsp;Achievements
+
+<div align="center">
+
+| | Achievement | Detail |
+|:---:|:---|:---|
+| 🎓 | **Academic Excellence** | CGPA 3.85/4.00 — Green University of Bangladesh |
+| 🏆 | **Vice Chancellor Award** | Received **5×** for outstanding semester results |
+| 🏅 | **Dean's Award** | Received **4×** for academic excellence |
+| 🥈 | **Programming Contests** | **2× First Runner-Up** in university competitions |
+| 💻 | **Problem Solving** | **314+** problems across LeetCode, URI, HackerRank |
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Agentic+Development+%26+Autonomous+Systems;AI+Integration+with+Python+%2F+Django" alt="Learning" />
+
+</div>
+
+Building toward intelligent, autonomous systems that combine JavaScript expertise with emerging AI capabilities.
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ujjal-kumar-roy/">
+  <img src="https://img.shields.io/badge/Let's_connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:ujjalroy7862@gmail.com">
+  <img src="https://img.shields.io/badge/Send_me_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://my-portfolio-c465b.web.app/">
+  <img src="https://img.shields.io/badge/View_my-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Open to opportunities in:** Full-Stack Development · System Architecture · Enterprise Solutions · AI Integration
+
+📧 ujjalroy7862@gmail.com · 📱 +880 1798421460 · 📍 Dhaka, Bangladesh
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ujjal-ENG&color=1f6feb&style=flat-square&label=Profile+Views)
+
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
