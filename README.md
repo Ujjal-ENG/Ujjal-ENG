@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Animated Typing - Line 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%9A%80+3%2B+Years+Building+at+Scale;%F0%9F%92%BB+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;%F0%9F%8F%97%EF%B8%8F+Enterprise+Payment+Systems;%E2%9A%A1+26%2B+Institutions+%7C+500%2B+Users;%F0%9F%94%A5+250%2B+Production+Bugs+Squashed" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%9A%80+4%2B+Years+Building+at+Scale;%F0%9F%92%BB+React+%7C+Next.js+%7C+Node.js+%7C+NestJS;%F0%9F%8F%97%EF%B8%8F+Enterprise+Payment+Systems;%E2%9A%A1+26%2B+Institutions+%7C+500%2B+Users;%F0%9F%94%A5+250%2B+Production+Bugs+Squashed" alt="Typing SVG" />
 
 <br/><br/>
 
