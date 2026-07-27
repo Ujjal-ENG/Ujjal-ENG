@@ -158,6 +158,160 @@ I build **production-grade JavaScript systems at scale** — from government pay
 </td>
 <td align="center" width="96">
   <a href="#">
+
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e2e,75:1c2d4f,100:1f6feb&height=280&section=header&text=Ujjal%20Kumar%20Roy&fontSize=50&fontColor=e6edf3&fontAlignY=30&desc=JavaScript%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Enterprise%20Solutions&descSize=18&descColor=8b949e&descAlignY=52&animation=scaleIn"/>
+
+<!-- Animated Wave Gif Divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+<br/>
+
+<!-- Animated Typing - Line 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%9A%80+4%2B+Years+Building+at+Scale;%F0%9F%92%BB+React+%7C+Next.js+%7C+Node.js+%6C+NestJS;%F0%9F%8F%97%EF%B8%8F+Enterprise+Payment+Systems;%E2%9A%A1+26%2B+Institutions+%7C+500%2B+Users;%F0%9F%94%A5+250%2B+Production+Bugs+Squashed" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Animated Social Badges -->
+<a href="https://www.linkedin.com/in/ujjal-kumar-roy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:ujjalroy7862@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;
+<a href="https://my-portfolio-c465b.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://leetcode.com/ujjalroy7862">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/13442641/ujjal-roy">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+</a>
+
+<br/><br/>
+
+<!-- Animated Trophies -->
+
+<br/>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+```javascript
+const ujjal = {
+  role: "Software Engineer",
+  location: "Dhaka, Bangladesh",
+  focus: "JavaScript Ecosystem & Enterprise Architecture",
+
+  stack: {
+    frontend:  ["React", "Next.js", "Vue.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "NestJS", "Express.js", "Laravel", "Django"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    devops:    ["Docker", "GCP", "Linux", "CI/CD"]
+  },
+
+  impact: {
+    institutionsServed: "26+ polytechnic institutions nationwide",
+    productionBugsFixed: "250+",
+    efficiencyGain: "60% faster transaction processing",
+    problemsSolved: "314+ across LeetCode, URI, HackerRank"
+  }
+};
+```
+
+I build **production-grade JavaScript systems at scale** — from government payment platforms processing thousands of daily transactions to fintech dashboards serving 500+ active users. Currently at **Frontier Semiconductor Ltd.**, previously led development of national-scale payment infrastructure at **Soft BD Ltd.**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;JavaScript Ecosystem — Where I Go Deep
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  </a>
+  <br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  </a>
+  <br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <br><strong>React</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  </a>
+  <br><strong>Next.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+  </a>
+  <br><strong>Vue.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a>
+  <br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+  </a>
+  <br><strong>NestJS</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+  </a>
+  <br><strong>Express</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+  </a>
+  <br><strong>Laravel</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  </a>
+  <br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+  </a>
+  <br><strong>Django</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  </a>
+  <br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
   </a>
   <br><strong>MongoDB</strong>
@@ -217,13 +371,9 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Raz/giphy.gif" width="25"> &nbsp;Professional Journey
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjal-ENG&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="320"/>
 
 ### 🏢 Frontier Semiconductor Ltd.
 **Software Engineer** · *Jun 2025 – Present*
@@ -239,9 +389,7 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 <br clear="right"/>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Featured Projects
 
@@ -293,16 +441,11 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </details>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjal-ENG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjal-ENG&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
 
 <br/>
 
@@ -314,11 +457,9 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
-## <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="25"> &nbsp;Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -332,9 +473,7 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 
 ## 🌱 Currently Exploring
 
@@ -354,9 +493,7 @@ I build **production-grade JavaScript systems at scale** — from government pay
 
 Building toward intelligent, autonomous systems that combine JavaScript expertise with emerging AI capabilities.
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 
 ## 📬 Let's Connect
 
