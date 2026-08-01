@@ -230,7 +230,7 @@ Automated payroll processing with dynamic reporting, leave management, attendanc
 
 <div align="center">
 
-**[📂 Browse all my repositories →](https://github.com/Ujjal-ENG?tab=repositories)**
+**[📂 Browse all my repositories →](https://github.com/ujjal-kumar-roy?tab=repositories)**
 
 </div>
 
@@ -240,20 +240,20 @@ Automated payroll processing with dynamic reporting, leave management, attendanc
 
 <div align="center">
 
-<img width="49%" alt="Ujjal Kumar Roy GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ujjal-ENG&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-<img width="41%" alt="Most used programming languages: JavaScript, TypeScript, PHP, Python" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjal-ENG&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img width="49%" alt="Ujjal Kumar Roy GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ujjal-kumar-roy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
+<img width="41%" alt="Most used programming languages: JavaScript, TypeScript, PHP, Python" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjal-kumar-roy&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 <br/>
 
-<img width="91%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Ujjal-ENG&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3"/>
+<img width="91%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=ujjal-kumar-roy&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3"/>
 
 <br/>
 
-<img width="91%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjal-ENG&bg_color=0d1117&color=8b949e&line=58a6ff&point=f78166&area=true&area_color=161b22&hide_border=true"/>
+<img width="91%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjal-kumar-roy&bg_color=0d1117&color=8b949e&line=58a6ff&point=f78166&area=true&area_color=161b22&hide_border=true"/>
 
 <br/>
 
-<img width="95%" alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Ujjal-ENG&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img width="95%" alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=ujjal-kumar-roy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 
 </div>
 
@@ -317,7 +317,7 @@ Recruiters and hiring managers — these are the titles that fit what I do:
 
 <br/><br/>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Ujjal-ENG&color=1f6feb&style=flat-square&label=Profile+Views"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ujjal-kumar-roy&color=1f6feb&style=flat-square&label=Profile+Views"/>
 
 <br/><br/>
 
